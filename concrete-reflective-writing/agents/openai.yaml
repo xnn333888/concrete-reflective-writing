@@ -1,0 +1,4 @@
+interface:
+  display_name: "具象反思写作"
+  short_description: "从生活现场进入，用物象承载思考、矛盾与克制情绪"
+  default_prompt: "Use $concrete-reflective-writing to turn this experience or thought into a restrained Chinese reflective essay."
